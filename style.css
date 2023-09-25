@@ -311,6 +311,11 @@ a {
   top: 0px;
 }
 
+.fixed {
+  position: fixed;
+  top: 0px;
+}
+
 .scroll-smooth {
   scroll-behavior: smooth;
 }
